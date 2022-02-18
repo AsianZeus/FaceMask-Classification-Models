@@ -5,10 +5,10 @@ This repository holds the downstream task of Face Mask Classification performed 
 
 
 <div align="center">
-	<a href="https://huggingface.co/AshatSurolia/ConvNeXt-FaceMask-Finetuned"><img alt="Doc" src="https://img.shields.io/static/v1?url=https%3A%2F%2Fhuggingface.co%2FAshatSurolia%2FConvNeXt-FaceMask-Finetuned&label=Huggingface&color=green&message=ConvNeXt-FaceMask-Finetuned&logo=huggingface"/></a>
-	<a href="https://huggingface.co/AshatSurolia/BEiT-FaceMask-Finetuned"><img alt="Doc" src="https://img.shields.io/static/v1?url=https%3A%2F%2Fhuggingface.co%2FAshatSurolia%2FBEiT-FaceMask-Finetuned&label=Huggingface&color=green&message=BEiT-FaceMask-Finetuned&logo=huggingface"/></a>
-	<a href="https://huggingface.co/AshatSurolia/ViT-FaceMask-Finetuned"><img alt="Doc" src="https://img.shields.io/static/v1?url=https%3A%2F%2Fhuggingface.co%2FAshatSurolia%2FViT-FaceMask-Finetuned&label=Huggingface&color=green&message=ViT-FaceMask-Finetuned&logo=huggingface"/></a>
-    <a href="https://huggingface.co/AshatSurolia/DeiT-FaceMask-Finetuned"><img alt="Doc" src="https://img.shields.io/static/v1?url=https%3A%2F%2Fhuggingface.co%2FAshatSurolia%2FDeiT-FaceMask-Finetuned&label=Huggingface&color=green&message=DeiT-FaceMask-Finetuned&logo=huggingface"/></a>
+	<a href="https://huggingface.co/AkshatSurolia/ConvNeXt-FaceMask-Finetuned"><img alt="Doc" src="https://img.shields.io/static/v1?url=https%3A%2F%2Fhuggingface.co%2FAkshatSurolia%2FConvNeXt-FaceMask-Finetuned&label=Huggingface&color=green&message=ConvNeXt-FaceMask-Finetuned&logo=huggingface"/></a>
+	<a href="https://huggingface.co/AkshatSurolia/BEiT-FaceMask-Finetuned"><img alt="Doc" src="https://img.shields.io/static/v1?url=https%3A%2F%2Fhuggingface.co%2FAkshatSurolia%2FBEiT-FaceMask-Finetuned&label=Huggingface&color=green&message=BEiT-FaceMask-Finetuned&logo=huggingface"/></a>
+	<a href="https://huggingface.co/AkshatSurolia/ViT-FaceMask-Finetuned"><img alt="Doc" src="https://img.shields.io/static/v1?url=https%3A%2F%2Fhuggingface.co%2FAkshatSurolia%2FViT-FaceMask-Finetuned&label=Huggingface&color=green&message=ViT-FaceMask-Finetuned&logo=huggingface"/></a>
+    <a href="https://huggingface.co/AkshatSurolia/DeiT-FaceMask-Finetuned"><img alt="Doc" src="https://img.shields.io/static/v1?url=https%3A%2F%2Fhuggingface.co%2FAkshatSurolia%2FDeiT-FaceMask-Finetuned&label=Huggingface&color=green&message=DeiT-FaceMask-Finetuned&logo=huggingface"/></a>
 </div>
 
 ----
